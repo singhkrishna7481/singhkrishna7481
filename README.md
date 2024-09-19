@@ -79,9 +79,8 @@ I’m a recent graduate with a degree in Bachelor of Computer Applications, and 
 
 
 ### ✍️ Daily Quote
-<div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+<div align="center"><a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=singhkrishna7481" alt="singhkrishna7481" /></a></div>
+
 
   
 
