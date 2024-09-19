@@ -73,7 +73,8 @@ I’m a recent graduate with a degree in Bachelor of Computer Applications, and 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhkrishna7481&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
+
+<div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhkrishna7481" alt="singhkrishna7481" /></a></div>
 
 
 ## Recent Blog Posts  
