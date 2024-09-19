@@ -77,12 +77,9 @@ I’m a recent graduate with a degree in Bachelor of Computer Applications, and 
 <div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhkrishna7481" alt="singhkrishna7481" /></a></div>
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
-<br/>  
+### ✍️ Daily Quote
+<div align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
 
   
 
