@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/singhkrishna7481/Profile/blob/main/img/bg.jpg?raw=true" align="center" height="30%" width="30%" />
+<!-- <img src="https://github.com/singhkrishna7481/Profile/blob/main/img/bg.jpg?raw=true" align="center" height="30%" width="30%" /> -->
 </div>  
   
 
