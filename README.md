@@ -55,13 +55,14 @@ Backend-oriented Software Engineer specializing in resilient microservice archit
 ### GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhkrishna7481&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhkrishna7481&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=singhkrishna7481&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=singhkrishna7481&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrishna7481&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=singhkrishna7481&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
+
 
 ---
 
